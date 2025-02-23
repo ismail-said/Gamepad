@@ -11,3 +11,6 @@ Hedef Listesi:
 ...
 5- Bataryalısı çıkarılacak
 ...
+
+Proje ardunio ile denenecek gerekli compenentler kodlardan sonra tedarik edilip detaylandırlıacak... Hala üzürende çalışıyorum
+![image](https://github.com/user-attachments/assets/2a781a4b-b323-43f4-8791-4fda749840a5)
